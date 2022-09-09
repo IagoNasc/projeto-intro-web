@@ -1,4 +1,4 @@
-//Lista de jogos Indie::
+//Lista de jogos Indie
 
 const Titulo1 = "Stardew Valley"
 const Genero1 = "RPG/Simulação"
@@ -93,5 +93,3 @@ const TodosSãoMultplayerOnline = (OnlineMultiplayer1 && OnlineMultiplayer2 && O
 
 console.log("A média de MetaScore desta lista de jogos é:" , MédiaMetaScore);
 console.log("Todos os jogos dessa lista tem Multiplayer Online?", TodosSãoMultplayerOnline);
-
-
